@@ -1,0 +1,167 @@
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	
+.slider-height {
+	min-height: 650px;	
+}
+.slider-content h2 {
+	font-size: 55px;
+}
+.case-content h3 {
+	font-size: 18px;
+}
+.consultation-form {
+	padding: 40px;
+}
+.faq-img img {
+	margin-left: 0;
+}
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-socal-icon {
+	display: none;
+}
+.welcome-messege {
+	display: none;
+}
+.single-cta {
+	display: none;
+}
+.menu-bg{
+	background: none;
+}
+.menu-area {
+	margin-bottom: 0;
+}
+.main-menu {
+	display: none;
+}
+.mean-container .mean-bar {
+	margin-top: -22px;
+}
+.slider-content h2 {
+	font-size: 40px;
+}
+.slider-height {
+	min-height: 450px;
+}
+.slider-content p {
+	font-size: 14px;
+}
+.single-testimonial {
+	padding-top: 90px;
+}
+.faq-img img {
+	margin-left: 0;
+}
+.footer-menu ul li {
+	margin-left: 15px;
+}
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+.header-socal-icon {
+	display: none;
+}
+.welcome-messege {
+	display: none;
+}
+.single-cta {
+	display: none;
+}
+.menu-bg{
+	background: none;
+}
+.menu-area {
+	margin-bottom: 0;
+}
+.mean-container .mean-bar{
+	margin-top: -15px;
+}
+.logo-area {
+	padding: 15px 0;
+}
+.logo {
+	padding-left: 35px;
+}
+.slider-height {
+	min-height: 400px;
+}
+.slider-content h2 {
+	font-size: 30px;
+}
+.slider-active .slick-dots {
+	bottom: 15px;
+}
+.single-features {
+	text-align: center;
+	padding: 0 50px;
+}
+.video-wrapper h2 {
+	font-size: 32px;
+}
+.video-area {
+	padding-top: 90px;
+	padding-bottom: 90px;
+}
+.case-content h3 {
+	font-size: 16px;
+}
+.slick-slide img {
+	width: 100%;
+}
+.single-testimonial {
+	padding-top: 90px;
+}
+.consultation-form {
+	padding: 30px;
+}
+.consultation-form input {
+	height: 40px;
+}
+.nice-select {
+	height: 40px;
+	line-height: 40px;
+}
+.consultation-form textarea {
+	height: 150px;
+}
+.faq-img img {
+	margin-left: 0;
+}
+.blog-thum img {
+	width: 100%;
+}
+.blog-meta {
+	margin-bottom: 30px;
+}
+.copyright {
+	text-align: center;
+}
+.footer-menu {
+	text-align: center;
+}
+.footer-area {
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
